@@ -20,11 +20,11 @@ p{
     line-height: 28px;
 /*width não foi colocado pois deixava a página desalinhada*/
     font-size: 16px;
-    text-align: center;
+    text-align: justify;
 }
 
 h1, h2, h3 {
-     text-align: justify;
+     text-align: center;
      margin: 15px 0px;
 }
 
